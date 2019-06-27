@@ -72,11 +72,11 @@ Prehistory</a></b></li>
  
 <li><b><a target="_blank" href="https://github.com/manjunath5496/Scope-of-Android-Mobile-Application-Development-in-India/blob/master/and(46).pdf" style="text-decoration:none;">Anatomy of the Human Body</a></b></li>
                                 <li><b><a target="_blank" href="https://github.com/manjunath5496/Scope-of-Android-Mobile-Application-Development-in-India/blob/master/and(47).pdf" style="text-decoration:none;">Why Evolution Is True</a></b></li>
-                                <li><b><a target="_blank" href="https://github.com/manjunath5496/Scope-of-Android-Mobile-Application-Development-in-India/blob/master/and(48).pdf" style="text-decoration:none;"><span style ="color:red">Android 6 for Programmers:</span> An App-Driven Approach</a></b></li> 
+                                <li><b><a target="_blank" href="https://github.com/manjunath5496/Scope-of-Android-Mobile-Application-Development-in-India/blob/master/and(48).pdf" style="text-decoration:none;">From Genesis to Genetics: The Case of Evolution and Creationism</a></b></li> 
  
-  <li><b><a target="_blank" href="https://github.com/manjunath5496/Scope-of-Android-Mobile-Application-Development-in-India/blob/master/and(49).pdf" style="text-decoration:none;">Android Application Development with Maven</a></b></li>
+  <li><b><a target="_blank" href="https://github.com/manjunath5496/Scope-of-Android-Mobile-Application-Development-in-India/blob/master/and(49).pdf" style="text-decoration:none;">Origins: Genesis, Evolution and Diversity of Life</a></b></li>
  
-<li><b><a target="_blank" href="https://github.com/manjunath5496/Scope-of-Android-Mobile-Application-Development-in-India/blob/master/and(50).pdf" style="text-decoration:none;">Android Application Testing Guide</a></b></li>
+<li><b><a target="_blank" href="https://github.com/manjunath5496/Scope-of-Android-Mobile-Application-Development-in-India/blob/master/and(50).pdf" style="text-decoration:none;">Understanding the Human Body: An Introduction to Anatomy and Physiology</a></b></li>
                                 <li><b><a target="_blank" href="https://github.com/manjunath5496/Scope-of-Android-Mobile-Application-Development-in-India/blob/master/and(51).pdf" style="text-decoration:none;">Android Developer Tools Essentials</a></b></li>
                                 <li><b><a target="_blank" href="https://github.com/manjunath5496/Scope-of-Android-Mobile-Application-Development-in-India/blob/master/and(52).pdf" style="text-decoration:none;">Android Recipes: A Problem-Solution Approach</a></b></li> 
  
