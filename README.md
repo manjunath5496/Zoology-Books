@@ -10,24 +10,20 @@
                           
 <li><b><a target="_blank" href="https://github.com/manjunath5496/Scope-of-Android-Mobile-Application-Development-in-India/blob/master/and(7).pdf" style="text-decoration:none;">Biology Dictionary</a></b></li>
                                 <li><b><a target="_blank" href="https://github.com/manjunath5496/Scope-of-Android-Mobile-Application-Development-in-India/blob/master/and(8).pdf" style="text-decoration:none;">Bird Conservation: Global evidence for the effects of interventions</a></b></li>
-                                <li><b><a target="_blank" href="https://github.com/manjunath5496/Scope-of-Android-Mobile-Application-Development-in-India/blob/master/and(9).pdf" style="text-decoration:none;">Android Studio 
-  <span style ="color:red">Development Essentials</span></a></b></li>
-                               
-<li><b><a target="_blank" href="https://github.com/manjunath5496/Scope-of-Android-Mobile-Application-Development-in-India/blob/master/and(10).pdf" style="text-decoration:none;">Android Programming: The Big Nerd Ranch Guide</a></b></li>
-                                <li><b><a target="_blank" href="https://github.com/manjunath5496/Scope-of-Android-Mobile-Application-Development-in-India/blob/master/and(11).pdf" style="text-decoration:none;">Beginning Android Programming with Android Studio</a></b></li>
-                                <li><b><a target="_blank" href="https://github.com/manjunath5496/Scope-of-Android-Mobile-Application-Development-in-India/blob/master/and(12).pdf" style="text-decoration:none;"><span style ="color:red">Building Android Apps</span> with
-HTML, CSS, and JavaScript</a></b></li>
- <li><b><a target="_blank" href="https://github.com/manjunath5496/Scope-of-Android-Mobile-Application-Development-in-India/blob/master/and(13).pdf" style="text-decoration:none;">Kotlin for Android Developers</a></b></li>  
+                                <li><b><a target="_blank" href="https://github.com/manjunath5496/Scope-of-Android-Mobile-Application-Development-in-India/blob/master/and(9).pdf" style="text-decoration:none;">College Zoology</a></b></li>
+     
+<li><b><a target="_blank" href="https://github.com/manjunath5496/Scope-of-Android-Mobile-Application-Development-in-India/blob/master/and(11).pdf" style="text-decoration:none;">Curious creatures in zoology</a></b></li>
+                                <li><b><a target="_blank" href="https://github.com/manjunath5496/Scope-of-Android-Mobile-Application-Development-in-India/blob/master/and(12).pdf" style="text-decoration:none;">Dictionary of Invertebrate Zoology</a></b></li>
+ <li><b><a target="_blank" href="https://github.com/manjunath5496/Scope-of-Android-Mobile-Application-Development-in-India/blob/master/and(13).pdf" style="text-decoration:none;">Early Modern Zoology:The Construction of Animals in Science, Literature and the Visual Arts</a></b></li>  
  
-<li><b><a target="_blank" href="https://github.com/manjunath5496/Scope-of-Android-Mobile-Application-Development-in-India/blob/master/and(14).pdf" style="text-decoration:none;">Learn Android App Development </a></b></li>
-                                <li><b><a target="_blank" href="https://github.com/manjunath5496/Scope-of-Android-Mobile-Application-Development-in-India/blob/master/and(15).pdf" style="text-decoration:none;">Learn Unity for Android Game Development</a></b></li>
-                                <li><b><a target="_blank" href="https://github.com/manjunath5496/Scope-of-Android-Mobile-Application-Development-in-India/blob/master/and(16).rar" style="text-decoration:none;"><span style ="color:red">App Inventor 2:</span>
-Create Your Own Android Apps</a></b></li>
+<li><b><a target="_blank" href="https://github.com/manjunath5496/Scope-of-Android-Mobile-Application-Development-in-India/blob/master/and(14).pdf" style="text-decoration:none;">Mind of the Raven: Investigations and Adventures with Wolf-Birds </a></b></li>
+                                <li><b><a target="_blank" href="https://github.com/manjunath5496/Scope-of-Android-Mobile-Application-Development-in-India/blob/master/and(15).pdf" style="text-decoration:none;">Essays in Philosophical Zoology</a></b></li>
+                                <li><b><a target="_blank" href="https://github.com/manjunath5496/Scope-of-Android-Mobile-Application-Development-in-India/blob/master/and(16).pdf" style="text-decoration:none;">Fish and Wildlife: Principles of Zoology and Ecology</a></b></li>
                                
-<li><b><a target="_blank" href="https://github.com/manjunath5496/Scope-of-Android-Mobile-Application-Development-in-India/blob/master/and(17).pdf" style="text-decoration:none;">Programming Android</a></b></li>
-                                <li><b><a target="_blank" href="https://github.com/manjunath5496/Scope-of-Android-Mobile-Application-Development-in-India/blob/master/and(18).pdf" style="text-decoration:none;">Sams Teach Yourself Android Application Development in 24 Hours </a></b></li>
+<li><b><a target="_blank" href="https://github.com/manjunath5496/Scope-of-Android-Mobile-Application-Development-in-India/blob/master/and(17).pdf" style="text-decoration:none;">History of Animals</a></b></li>
+                                <li><b><a target="_blank" href="https://github.com/manjunath5496/Scope-of-Android-Mobile-Application-Development-in-India/blob/master/and(18).pdf" style="text-decoration:none;">The Insects: An Outline of Entomology </a></b></li>
                                 
- <li><b><a target="_blank" href="https://github.com/manjunath5496/Scope-of-Android-Mobile-Application-Development-in-India/blob/master/and(19).pdf" style="text-decoration:none;"><span style ="color:red">Android</span> Tips, Tricks, Apps and Hacks </a></b></li>
+ <li><b><a target="_blank" href="https://github.com/manjunath5496/Scope-of-Android-Mobile-Application-Development-in-India/blob/master/and(19).pdf" style="text-decoration:none;"> Laboratory and field text in invertebrate zoology </a></b></li>
                           
 <li><b><a target="_blank" href="https://github.com/manjunath5496/Scope-of-Android-Mobile-Application-Development-in-India/blob/master/and(20).pdf" style="text-decoration:none;">Learning Java by Building Android Games </a></b></li>
                                 <li><b><a target="_blank" href="https://github.com/manjunath5496/Scope-of-Android-Mobile-Application-Development-in-India/blob/master/and(22).pdf" style="text-decoration:none;">Android Cookbook: Problems and Solutions for Android Developers</a></b></li>
