@@ -41,11 +41,10 @@
 
 <li><b><a target="_blank" href="https://github.com/manjunath5496/Scope-of-Android-Mobile-Application-Development-in-India/blob/master/and(28).pdf" style="text-decoration:none;">Occasional papers of the Museum of Zoology</a></b></li>
 
-<li><b><a target="_blank" href="https://github.com/manjunath5496/Scope-of-Android-Mobile-Application-Development-in-India/blob/master/and(29).pdf" style="text-decoration:none;">Linux Kernel and Android Development Class</a></b></li>
-                                <li><b><a target="_blank" href="https://github.com/manjunath5496/Scope-of-Android-Mobile-Application-Development-in-India/blob/master/and(30).pdf" style="text-decoration:none;">Expert 
-  <span style ="color:red">Android Programming</span></a></b></li>
+<li><b><a target="_blank" href="https://github.com/manjunath5496/Scope-of-Android-Mobile-Application-Development-in-India/blob/master/and(29).rar" style="text-decoration:none;">Practical Zoology: Vertebrate</a></b></li>
+                                <li><b><a target="_blank" href="https://github.com/manjunath5496/Scope-of-Android-Mobile-Application-Development-in-India/blob/master/and(30).rar" style="text-decoration:none;">Progress in Soil Zoology</a></b></li>
                                
-<li><b><a target="_blank" href="https://github.com/manjunath5496/Scope-of-Android-Mobile-Application-Development-in-India/blob/master/and(31).pdf" style="text-decoration:none;">Exploring SE for Android</a></b></li>
+<li><b><a target="_blank" href="https://github.com/manjunath5496/Scope-of-Android-Mobile-Application-Development-in-India/blob/master/and(31).pdf" style="text-decoration:none;">Handbook of Zoology - Arthropoda: Insecta</a></b></li>
                                 <li><b><a target="_blank" href="https://github.com/manjunath5496/Scope-of-Android-Mobile-Application-Development-in-India/blob/master/and(32).pdf" style="text-decoration:none;">Gradle for Android: Automate the build process for your Android projects with Gradle</a></b></li>
                                 <li><b><a target="_blank" href="https://github.com/manjunath5496/Scope-of-Android-Mobile-Application-Development-in-India/blob/master/and(33).pdf" style="text-decoration:none;"><span style ="color:red">Hello, Android:</span>
 Introducing Google's Mobile Development Platform, 3rd Edition</a></b></li>
