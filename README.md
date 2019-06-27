@@ -77,21 +77,23 @@ Prehistory</a></b></li>
   <li><b><a target="_blank" href="https://github.com/manjunath5496/Scope-of-Android-Mobile-Application-Development-in-India/blob/master/and(49).pdf" style="text-decoration:none;">Origins: Genesis, Evolution and Diversity of Life</a></b></li>
  
 <li><b><a target="_blank" href="https://github.com/manjunath5496/Scope-of-Android-Mobile-Application-Development-in-India/blob/master/and(50).pdf" style="text-decoration:none;">Understanding the Human Body: An Introduction to Anatomy and Physiology</a></b></li>
-                                <li><b><a target="_blank" href="https://github.com/manjunath5496/Scope-of-Android-Mobile-Application-Development-in-India/blob/master/and(51).pdf" style="text-decoration:none;">Android Developer Tools Essentials</a></b></li>
-                                <li><b><a target="_blank" href="https://github.com/manjunath5496/Scope-of-Android-Mobile-Application-Development-in-India/blob/master/and(52).pdf" style="text-decoration:none;">Android Recipes: A Problem-Solution Approach</a></b></li> 
+                                <li><b><a target="_blank" href="https://github.com/manjunath5496/Scope-of-Android-Mobile-Application-Development-in-India/blob/master/and(51).pdf" style="text-decoration:none;">Evolutionary Developmental Biology of Invertebrates 3 - 
+Ecdysozoa I: Non-Tetraconata</a></b></li>
+                                <li><b><a target="_blank" href="https://github.com/manjunath5496/Scope-of-Android-Mobile-Application-Development-in-India/blob/master/and(52).pdf" style="text-decoration:none;">Evolutionary Developmental Biology of Invertebrates 6 -
+Deuterostomia</a></b></li> 
  
-<li><b><a target="_blank" href="https://github.com/manjunath5496/Scope-of-Android-Mobile-Application-Development-in-India/blob/master/and(53).pdf" style="text-decoration:none;">Android Security Internals: An In-Depth Guide to Android′s Security Architecture</a></b></li>
-                                <li><b><a target="_blank" href="https://github.com/manjunath5496/Scope-of-Android-Mobile-Application-Development-in-India/blob/master/and(54).pdf" style="text-decoration:none;">Pro Android UI</a></b></li>
-                                <li><b><a target="_blank" href="https://github.com/manjunath5496/Scope-of-Android-Mobile-Application-Development-in-India/blob/master/and(55).pdf" style="text-decoration:none;">Android UI Design</a></b></li> 
+<li><b><a target="_blank" href="https://github.com/manjunath5496/Scope-of-Android-Mobile-Application-Development-in-India/blob/master/and(53).pdf" style="text-decoration:none;">Invertebrate Relationships: Patterns in Animal Evolution</a></b></li>
+                                <li><b><a target="_blank" href="https://github.com/manjunath5496/Scope-of-Android-Mobile-Application-Development-in-India/blob/master/and(54).pdf" style="text-decoration:none;">Major Events in Early Vertebrate Evolution: Palaeontology, phylogeny, genetics and development</a></b></li>
+                                <li><b><a target="_blank" href="https://github.com/manjunath5496/Scope-of-Android-Mobile-Application-Development-in-India/blob/master/and(55).pdf" style="text-decoration:none;">Mammoths, Sabertooths, and Hominids</a></b></li> 
  
  
   
-<li><b><a target="_blank" href="https://github.com/manjunath5496/Scope-of-Android-Mobile-Application-Development-in-India/blob/master/and(56).pdf" style="text-decoration:none;">Android UI Design: Plan, design, and build engaging user interfaces for your Android applications</a></b></li>
-                                <li><b><a target="_blank" href="https://github.com/manjunath5496/Scope-of-Android-Mobile-Application-Development-in-India/blob/master/and(57).pdf" style="text-decoration:none;">Android UI Fundamentals: Develop and Design</a></b></li>
-                                <li><b><a target="_blank" href="https://github.com/manjunath5496/Scope-of-Android-Mobile-Application-Development-in-India/blob/master/and(58).pdf" style="text-decoration:none;">Android Application Secure Design / Secure Coding Guidebook</a></b></li> 
+<li><b><a target="_blank" href="https://github.com/manjunath5496/Scope-of-Android-Mobile-Application-Development-in-India/blob/master/and(56).pdf" style="text-decoration:none;">Migration: The Biology of Life on the Move</a></b></li>
+                                <li><b><a target="_blank" href="https://github.com/manjunath5496/Scope-of-Android-Mobile-Application-Development-in-India/blob/master/and(57).pdf" style="text-decoration:none;">Muscles of Vertebrates: Comparative Anatomy, Evolution, Homologies and Development</a></b></li>
+                                <li><b><a target="_blank" href="https://github.com/manjunath5496/Scope-of-Android-Mobile-Application-Development-in-India/blob/master/and(58).pdf" style="text-decoration:none;">Phylogenetics: Theory and Practice of Phylogenetic Systematics</a></b></li> 
  
-<li><b><a target="_blank" href="https://github.com/manjunath5496/Scope-of-Android-Mobile-Application-Development-in-India/blob/master/and(59).pdf" style="text-decoration:none;">Android Programming Tutorials</a></b></li>
-                                <li><b><a target="_blank" href="https://github.com/manjunath5496/Scope-of-Android-Mobile-Application-Development-in-India/blob/master/and(60).pdf" style="text-decoration:none;">Android Database Programming</a></b></li>
+<li><b><a target="_blank" href="https://github.com/manjunath5496/Scope-of-Android-Mobile-Application-Development-in-India/blob/master/and(59).pdf" style="text-decoration:none;">The Animal Kingdom: A Very Short Introduction</a></b></li>
+                                <li><b><a target="_blank" href="https://github.com/manjunath5496/Scope-of-Android-Mobile-Application-Development-in-India/blob/master/and(60).pdf" style="text-decoration:none;">The evolution of air breathing in vertebrates</a></b></li>
                                 <li><b><a target="_blank" href="https://github.com/manjunath5496/Scope-of-Android-Mobile-Application-Development-in-India/blob/master/and(61).pdf" style="text-decoration:none;">Google Android on the Beagleboard: Introduction to the Android API, HAL and SDK</a></b></li> 
  
 <li><b><a target="_blank" href="https://github.com/manjunath5496/Scope-of-Android-Mobile-Application-Development-in-India/blob/master/and(62).pdf" style="text-decoration:none;">Android Design Patterns and Best Practice</a></b></li>
@@ -100,24 +102,6 @@ Prehistory</a></b></li>
  
   
 <li><b><a target="_blank" href="https://github.com/manjunath5496/Scope-of-Android-Mobile-Application-Development-in-India/blob/master/and(65).pdf" style="text-decoration:none;">Practical Android Projects</a></b></li>
-                                <li><b><a target="_blank" href="https://github.com/manjunath5496/Scope-of-Android-Mobile-Application-Development-in-India/blob/master/and(66).rar" style="text-decoration:none;">Professional Android 4 Application Development</a></b></li>
-                                <li><b><a target="_blank" href="https://github.com/manjunath5496/Scope-of-Android-Mobile-Application-Development-in-India/blob/master/and(67).pdf" style="text-decoration:none;">Reactive Programming in Kotlin</a></b></li> 
- 
-<li><b><a target="_blank" href="https://github.com/manjunath5496/Scope-of-Android-Mobile-Application-Development-in-India/blob/master/and(68).pdf" style="text-decoration:none;">Instant Spring for Android Starter</a></b></li>
-                                <li><b><a target="_blank" href="https://github.com/manjunath5496/Scope-of-Android-Mobile-Application-Development-in-India/blob/master/and(69).pdf" style="text-decoration:none;">Android Things Projects</a></b></li>
-                                <li><b><a target="_blank" href="https://github.com/manjunath5496/Scope-of-Android-Mobile-Application-Development-in-India/blob/master/and(70).pdf" style="text-decoration:none;">Android Design Patterns</a></b></li>  
- 
- <li><b><a target="_blank" href="https://github.com/manjunath5496/Scope-of-Android-Mobile-Application-Development-in-India/blob/master/and(71).pdf" style="text-decoration:none;">Android Development with Kotlin</a></b></li>
-                                <li><b><a target="_blank" href="https://github.com/manjunath5496/Scope-of-Android-Mobile-Application-Development-in-India/blob/master/and(72).pdf" style="text-decoration:none;">GUI Design for Android Apps</a></b></li>
-                                <li><b><a target="_blank" href="https://github.com/manjunath5496/Scope-of-Android-Mobile-Application-Development-in-India/blob/master/and(73).pdf" style="text-decoration:none;">Do Androids Dream of Electric Sheep?</a></b></li>                    
-<li><b><a target="_blank" href="https://github.com/manjunath5496/Scope-of-Android-Mobile-Application-Development-in-India/blob/master/and(74).pdf" style="text-decoration:none;">Smashing Android UI: Responsive User Interfaces and Design Patterns for Android Phones and Tablets</a></b></li>
-                                <li><b><a target="_blank" href="https://github.com/manjunath5496/Scope-of-Android-Mobile-Application-Development-in-India/blob/master/and(75).pdf" style="text-decoration:none;">Learning Mobile App Development: A Hands-on Guide to Building Apps with iOS and Android</a></b></li>                                                    
-                                
- <li><b><a target="_blank" href="https://github.com/manjunath5496/Scope-of-Android-Mobile-Application-Development-in-India/blob/master/and(76).pdf" style="text-decoration:none;">Kotlin Tutorial</a></b></li>
-                                <li><b><a target="_blank" href="https://github.com/manjunath5496/Scope-of-Android-Mobile-Application-Development-in-India/blob/master/and(77).pdf" style="text-decoration:none;">Kotlin Language Documentation</a></b></li>                      <li><b><a target="_blank" href="https://github.com/manjunath5496/Scope-of-Android-Mobile-Application-Development-in-India/blob/master/and(78).pdf" style="text-decoration:none;">Programming Kotlin</a></b></li>
-                                <li><b><a target="_blank" href="https://github.com/manjunath5496/Scope-of-Android-Mobile-Application-Development-in-India/blob/master/and(79).pdf" style="text-decoration:none;">Kotlin in Action</a></b></li>                
-                                 <li><b><a target="_blank" href="https://github.com/manjunath5496/Scope-of-Android-Mobile-Application-Development-in-India/blob/master/and(80).pdf" style="text-decoration:none;">Functional Kotlin</a></b></li> 
-                                 <li><b><a target="_blank" href="https://github.com/manjunath5496/Scope-of-Android-Mobile-Application-Development-in-India/blob/master/and(38).rar" style="text-decoration:none;">Android Phones For Dummies</a></b></li>      
-<li><b><a target="_blank" href="https://github.com/manjunath5496/Scope-of-Android-Mobile-Application-Development-in-India/blob/master/and(81).rar" style="text-decoration:none;">Head First Android Development</a></b></li> 
+                               
 
 </ul>
